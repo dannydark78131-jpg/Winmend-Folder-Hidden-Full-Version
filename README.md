@@ -234,4 +234,4 @@ This repository serves as the official landing page for WinMend Folder Hidden. T
 **Get the most recent version of WinMend Folder Hidden today!**
 
 ---
-**Last updated:** 2026-11-12 11:51:31 UTC
+**Last updated:** 2026-11-12 12:57:41 UTC
